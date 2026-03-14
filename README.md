@@ -105,16 +105,4 @@ Credit-Card-Weekly-Report
 └── README.md
 ```
 
----
-
-# 📷 Dashboard Preview
-
-*(Add your Power BI dashboard screenshots here)*
-
-![Transaction Dashboard](images/Credit_Card_Transaction_Report.jpg)
-
-
-![Customer Dashboard](images/Credit_Card_Customer_Report.jpg)
-
-
 
